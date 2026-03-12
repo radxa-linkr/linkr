@@ -1,0 +1,9 @@
+{
+    "version": "1.0.0-beta3",
+    "download_url": "https://radxa-linkr.github.io/linkr/linkr-ota-1.0.0-beta3.bin",
+    "sha256": "d7bbb2a8d2321a58ae6e4b654bc604ba0fc3a899a396238a508fefcc739b750c",
+    "change_log": {
+        "en": "v1.0.0-beta3",
+        "zh": "v1.0.0-beta3"
+    }
+}
