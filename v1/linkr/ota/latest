@@ -1,0 +1,9 @@
+{
+    "version": "1.2.1",
+    "download_url": "https://radxa-linkr.github.io/linkr/linkr-ota-1.2.1.bin",
+    "sha256": "8b5c6ff6e0e4b41623a6025a67a1fb0e747dbe793c458888a68d7b44baf461d7",
+    "change_log": {
+        "en": "v1.2.1",
+        "zh": "v1.2.1"
+    }
+}
